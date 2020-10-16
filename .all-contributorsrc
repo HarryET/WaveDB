@@ -1,3 +1,23 @@
 {
-  "files": ["CONTRIBUTORS.md", "README.md"]
+  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "projectName": "WaveDB",
+  "projectOwner": "HarryET",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "HyeonuPark",
+      "name": "Hyeonu Park",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11769971?v=4",
+      "profile": "https://medium.com/@nemo1275",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
