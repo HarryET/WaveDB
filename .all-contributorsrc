@@ -10,6 +10,17 @@
   "skipCi": true,
   "contributors": [
     {
+      "login": "HarryET",
+      "name": "HarryET",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29015545?v=4",
+      "profile": "https://github.com/HarryET",
+      "contributions": [
+        "code",
+        "maintenance",
+        "projectManagement"
+      ]
+    },
+    {
       "login": "HyeonuPark",
       "name": "Hyeonu Park",
       "avatar_url": "https://avatars0.githubusercontent.com/u/11769971?v=4",
@@ -19,5 +30,6 @@
       ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitConvention": "none"
 }
